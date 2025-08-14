@@ -1,0 +1,1 @@
+Pretty simple, the Python 3 script scans a target for open ports. It can take one or more hostnames or IP addresses, resolve them, and check all ports from 0 to 65535. Open ports are shown in green, and errors are handled so the scan doesn’t stop unexpectedly.
