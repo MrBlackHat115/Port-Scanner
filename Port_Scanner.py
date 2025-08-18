@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import os # Import the os module for interacting with the file system
 import socket # Provides low-level networking interfaces. It allows you to create and manage network connections using protocols like TCP and UDP.
 import termcolor # Enables developers to print colored text, highlight text with different background colors, and apply various text attributes like bold, underline, dark, blink, reverse, and concealed.
